@@ -1,0 +1,1151 @@
+@media(max-width:2000px){
+    header{
+        background: url(../img/\(1\).jpg)no-repeat center/cover ;
+    }
+    .main__text p {
+        font-size: 16px;
+        font-family: var(--m-r);
+        align-items: center;
+        color: #fff;
+        width: 705px;
+        margin-top: 40px;
+        margin-bottom: 50px;
+        margin-left: 293px;
+    }
+    .taste__line {
+        border-bottom: 1px solid #fff;
+        width: 160px;
+        display: flex;
+        margin-top: 40px;
+        margin-left: 562px;
+    }
+    .record__text p{
+        margin-left: 382px;
+    }
+}
+@media(max-width:1399px){
+.taste__line{
+    margin-left: 468px;
+}
+.main__text p{
+    margin-left: 205px;
+}
+.record__text h2{
+    width: 500px;
+}
+.record__text p {
+    margin-left: 305px;
+}
+ /* .men__link-block {
+    padding-left: 46px;
+}  */
+
+
+}
+@media(max-width:1220px){
+    /* .record__text{
+        max-width: 100%;
+    } */
+    /* .barell{
+        right: -45px;
+    } */
+}
+@media(max-width:1199px){
+    .main__text p{
+        margin-left: 110px;
+    }
+    .taste__line {
+        margin-left: 382px;
+    }
+    .record__text h2{
+        width: 436px;
+        font-size: 33px;
+        transform: translate(-45%, -50%);
+        padding: 10px 35px;
+    }
+    .record__text p{
+        margin-left: 240px;
+        width: 510px;
+    }
+    .barell{
+        right: -84px;
+    }
+    .grage{
+        left: -57px;
+    }
+    /* .footer__menu li a {
+        margin-left: 15px;
+        margin-right: 15px;
+    } */
+    /* .menu__link li a {
+        margin-right: 50px;
+    } */
+    /* .men__link-block li a{
+        padding-right: 50px;
+    padding-left: 8px;
+    } */
+    .menu-img1 {
+        /* padding-left: 58px; */
+        padding-right: 15px;
+    }
+    .menu-img2 {
+        /* padding-left: 58px; */
+        padding-right: 15px;
+    }
+}
+@media (max-width:1145px){
+    .marsel__vino{
+        width: 535px;
+    }
+    .marsel__img .im {
+        margin-right: 25px;
+    }
+}
+@media (max-width:1115px){
+    .marsel__vino{
+        width: 515px;
+    }
+    .marsel__img .im {
+        width: 230px;
+        margin-right: 30px;
+    }
+}
+@media(max-width:1090px){
+    .barell{
+        right: -75px;
+    }
+}
+@media (max-width:1080px){
+    .marsel__vino{
+        width: 505px;
+    }
+    .marsel__img .im {
+        width: 226px;
+        margin-right: 24px;
+    }
+    .grage{
+        left: -40px;
+    }
+    .barell{
+        right: -70px;
+    }
+}
+@media(max-width:1060px){
+   .barell{
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 10px;
+   } 
+}
+@media (max-width:1050px){
+    .marsel__vino{
+        width: 495px;
+    }
+    .marsel__img img {
+        width: 243px;
+        
+    }
+    .barell{
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 20px;
+    }
+    .grape{
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 15px;
+    }
+}
+@media (max-width:1030px){
+    .marsel__vino{
+        width: 475px;
+    }
+    .marsel__img img {
+        width: 225px;
+        
+    }
+    /* .barell{
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 30px;
+    } */
+    /* .grape{
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 20px;
+    } */
+}
+@media(max-width:998px){
+    .menu__link-block {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 60px;
+    }
+    .menu__link-block-end {
+        border-right: none;
+    }
+}
+@media(max-width:991px){
+    .main__text h1{
+        font-size: 32px;
+    }
+    .men{
+        margin-left: -90px
+    }
+    .menu__link-block{
+            padding-left: 50px;
+    }
+    .taste__line {
+        margin-left: 275px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 45px;
+        width: 600px;
+    }
+    .coll{
+        margin-left: 135px;
+    }
+    .marsel__text{
+        position: relative;
+        left: 135px;
+    }
+    .marsel__text p {
+        width: 315px; 
+    }
+    .marsel__vin{
+        margin-top: 30px;
+        padding-left: 135px;
+    }
+    .record__text p {
+        margin-left: 101px;
+        width: 510px;
+    }
+    .record__text h2 {
+        width: 402px;
+        font-size: 30px;
+        transform: translate(-45%, -50%);
+        padding: 10px 24px;
+    }
+    .record__img {
+      top: -38px;  
+    } 
+    .men__link-block img{
+        padding: 10px 15px;
+    }
+    .men__link li a{
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    /* .footer__menu li a {
+        margin-left: 9px;
+        margin-right: 9px;
+    }
+    .footer__menu li a {
+    margin-left: 9px;
+    margin-right: 9px;
+}   */
+
+
+}
+@media(max-width:960px){
+    .menu__link-block {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 45px;
+    }
+}
+@media(max-width:920px){
+    .menu__link li a {
+        font-family: var(--m-r);
+        text-align: center;
+        margin-right: 85px;
+        font-size: 14px;
+        color: #fff;
+    }
+}
+@media(max-width:860px){
+    .menu__link-block {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 35px;
+    }
+    .menu__link li a {
+        font-family: var(--m-r);
+        text-align: center;
+        margin-right: 80px;
+        font-size: 14px;
+        color: #fff;
+    }
+}
+@media(max-width:800px){
+    header{
+        background: url(../img/\(1\).jpg)no-repeat center/cover ;
+    }
+    .menu__link-block {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        /* padding-left: 30px; */
+    }
+    .men{
+        margin-left: -55px;
+    }
+    .menu__link li a {
+        font-family: var(--m-r);
+        text-align: center;
+        margin-right: 75px;
+        font-size: 14px;
+        color: #fff;
+    } 
+    .men__link li a{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+@media(max-width:767px){
+    .main__text p {
+        margin-left: 32px;
+        width: 447px;
+    }
+    .taste__line {
+        margin-left: 187px;
+        width: 140px;
+    }
+    .coll {
+        margin-left: 29px;
+    }
+    .marsel__text {
+        position: relative;
+        left: 31px;
+        width: 353px;
+    }
+
+    .marsel__vin {
+        margin-top: 30px;
+        padding-left: 30px;
+    }
+    .record__text p {
+        margin-left: 18px;
+        width: 480px;
+    }
+    .record__text button{
+        padding: 15px 180px;
+    }
+    .record__text h2{
+        width: 347px;
+    font-size: 27px;
+    }
+
+    .imput{
+    width: 470px;
+    }
+    .footer__menu ul{
+        display: table-cell;
+    }
+    .men__link{
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #fff;
+    }
+    .men{
+        right: 80px;
+        top: 4693px;
+    }
+    .men__link li a{
+        padding-top: 15px;  
+        padding-bottom: 5px;    
+    }
+   .menu__link-block-end{
+    padding-right: 50px;
+} 
+}
+@media(max-width:760px){
+    .menu__link-block {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 25px;
+    }
+    .menu__link li a {
+        font-family: var(--m-r);
+        text-align: center;
+        margin-right: 70px;
+        font-size: 14px;
+        color: #fff;
+    }  
+}
+@media(max-width:700px){
+    
+    .menu-but{
+        display: block;
+        padding: 5px 10px;
+    opacity: 0.5;
+    background: none;
+    color: white;
+    }
+    .menu__link{
+        display: none;
+        color: #fff;
+        border: 1px solid #fff;
+    }
+    .men{
+      top: 4655px;
+      right: 65px;
+    }
+}
+@media(max-width:620px){
+    .record__text {
+        padding-right: 19px;
+    }
+.record__text p {
+    margin-left: 23px;
+    width: 442px;
+}
+input{
+    width: 215px;
+}
+.imput {
+    width: 450px;
+}
+.men__link-block img {
+    padding: 5px 10px;
+}
+.men{
+    top: 4655px;
+    right: 50px;
+}
+}
+@media(max-width:575px){
+    .record__text p {
+        margin-left: 40px;
+        width: 442px;
+    }
+    .barell{
+        margin-top: 13px;
+    right: 425px;
+    }
+    .grape{
+        top: 500px;
+    left: 431px;
+    }
+    .men__link-block{
+        padding-top: 10px;
+        border-right: none;
+    }
+    .menu__link-block {
+        padding-top: 5px;
+        padding-bottom: 13px;
+        padding-left: 0px;
+    }
+    .menu__link-block-end{
+        margin-right: -35px;
+    }
+    .men__link  {
+    left: 38px;
+    border: 1px solid #fff;
+    position: relative;
+    display: flex;
+    width: 260px; 
+    height: 185px;
+    bottom: 0px;
+    flex-direction: column;
+}
+.men__link-block img {
+    padding: 0px 10px;
+}
+}
+@media(max-width:569px){
+    .location{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .barell {
+        margin-top: 13px;
+        right: 421px;
+    }
+}
+@media(max-width:560px){
+    .record__text h2{
+        padding: 10px 20px;
+        width: 317px;
+        font-size: 25px;
+    }
+    .barell{
+        flex: 40%;
+        max-width: 26%;
+        padding: 0px 20px;
+        margin-top: 13px;
+        right: 411px;
+    }
+}
+@media(max-width:545px){
+    .barell{
+        right: 400px;
+    }
+    .grape{
+        left: 410px;
+    }
+}
+@media(max-width:530px){
+    .marsel__vin {
+        margin-top: 30px;
+        padding-left: 16px;
+    }
+    .record__text p {
+        margin-left: 30px;
+        width: 420px;
+    }
+    .barell{
+        top: 20px;
+        right: 389px;
+    }
+    .grape{
+        top: 535px;
+        left: 400px;
+    }
+    .men__link{
+        bottom: -24px;
+    }
+}
+@media(max-width:520px){
+    .main__text p {
+        margin-left: 32px;
+        width: 420px;
+    }
+    .taste__line {
+        margin-left: 176px;
+        width: 140px;
+    }
+    .marsel__vino {
+        width: 440px;
+    }
+    .marsel__img .im {
+        width: 210px;
+        margin-right: 24px;
+    }
+    .marsel__img img {
+        width: 210px;
+    }
+    input {
+        width: 205px;
+    }
+    .imput {
+        width: 430px;
+    }
+    .record__text button {
+        padding: 15px 170px;
+    }
+    .barell {
+        top: 20px;
+        right: 381px;
+    }
+    .grape {
+        top: 535px;
+        left: 392px;
+    }
+    .men__link{
+        bottom: -45px;
+    }
+} 
+@media(max-width:510px){
+    .barell{
+        top: 22px;
+        right: 373px;
+    }
+    .grape{
+        top: 535px;
+        left: 385px;
+    }
+}
+@media(max-width:500px){
+    .record__text p {
+        margin-left: 35px;
+        width: 375px;
+    }
+    .barell {
+        top: 22px;
+        right: 366px;
+    }
+    .record__text button {
+        padding: 15px 160px;
+    }
+    .imput {
+        width: 415px;
+    }
+    input {
+        width: 195px;
+    }
+}
+@media(max-width:490px){
+    .marsel__vin {
+        margin-top: 30px;
+        padding-left: 15px;
+    }
+    .barell {
+        top: 22px;
+        right: 358px;
+    }
+}
+@media(max-width:485px){
+    .marsel__vino {
+        width: 420px;
+    }
+    .marsel__img .im {
+        width: 200px;
+        margin-right: 24px;
+    }
+    .marsel__img img {
+        width: 200px;
+    }
+    .record__text {
+        padding-right: 0px;
+    }
+    .barell {
+        top: 22px;
+        right: 369px;
+    }
+    .grape {
+        top: 535px;
+        left: 359px;
+    }
+}
+@media(max-width:480px){
+    .taste__line {
+        margin-left: 154px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 32px;
+        width: 380px;
+    }
+    .men__link{
+        bottom: -95px;
+        width: 235px;
+    }
+}
+@media(max-width:470px){
+    .marsel__vino {
+        width: 400px;
+    }
+    .marsel__img img {
+        width: 190px;
+    }
+    .marsel__img .im {
+        width: 190px;
+        margin-right: 24px;
+    }
+    .record__text h2 {
+        padding: 5px 5px;
+        width: 305px;
+        font-size: 24px;
+    }
+    .barell {
+        top: 22px;
+        right: 357px;
+    }
+    .grape {
+        top: 535px;
+        left: 348px;
+    }
+}
+@media(max-width:460px){
+    .barell {
+        top: 22px;
+        right: 350px;
+    }
+    .grape {
+        top: 535px;
+        left: 340px;
+    }
+    input {
+        width: 180px;
+    }
+    .imput {
+        width: 385px;
+    }
+    .record__text button {
+        padding: 10px 145px;
+    }
+    .men__link li a{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+}
+@media(max-width:450px){
+    .marsel__vino {
+        width: 380px;
+    }
+    .marsel__img img {
+        width: 180px;
+    }
+    .marsel__img .im {
+        width: 180px;
+        margin-right: 22px;
+    }
+    .barell {
+        top: 22px;
+        right: 342px;
+    }
+    .record__text p {
+        margin-left: 20px;
+        width: 375px;
+    }
+    .grape {
+        top: 535px;
+        left: 333px;
+    }
+}
+@media(max-width:440px){
+    .taste__line {
+        margin-left: 135px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 30px;
+        width: 350px;
+    }
+    .grape {
+        top: 535px;
+        left: 325px;
+    }
+    .barell {
+        top: 22px;
+        right: 335px;
+    }
+    .men__link{
+        width: 220px;
+    }
+}
+@media(max-width:435px){
+    .location {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .menu-but{
+        margin-bottom: 10px;
+    }
+    .barell {
+        top: 22px;
+        right: 331px;
+    }
+    .grape {
+        top: 535px;
+        left: 322px;
+    }
+    .record__text p {
+        margin-left: 10px;
+        width: 375px;
+    }
+    .men__link{
+        bottom: -135px
+    }
+}
+@media(max-width:420px){
+    .taste__line {
+        margin-left: 130px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 30px;
+        width: 330px;
+    }
+    .marsel__vino {
+        width: 360px;
+    }
+    .marsel__img img {
+        width: 170px;
+    }
+    .marsel__img .im {
+        width: 170px;
+        margin-right: 20px;
+    }
+    .record__text h2 {
+        padding: 5px 5px;
+        width: 276px;
+        font-size: 24px;
+    }
+    .record__text p {
+        margin-left: 25px;
+        width: 340px;
+    }
+    .imput {
+        width: 350px;
+    }
+    input {
+        width: 160px;
+    }
+    .record__text button {
+        padding: 10px 130px;
+    }
+    .barell {
+        top: 20px;
+        right: 319px;
+    }
+    .grape {
+        top: 535px;
+        left: 315px;
+    }
+    .men__link{
+        bottom: -205px;
+    }
+}
+@media(max-width:410px){
+    .grape {
+        top: 535px;
+        left: 305px;
+    }
+    .barell {
+        top: 20px;
+        right: 315px;
+    }
+    .men__link{
+        width: 215px;
+    }
+    .men__link li a {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+@media(max-width:400px){
+    .but button{
+        font-size: 12px;
+    }
+    .taste__line {
+        margin-left: 120px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 35px;
+        width: 300px;
+    }
+    .coll {
+        margin-left: 13px;
+    }
+    .marsel__text {
+        position: relative;
+        left: 7px;
+        width: 353px;
+    }
+    .marsel__vin {
+        margin-top: 30px;
+        padding-left: 5px;
+    }
+    .marsel__vino {
+        width: 360px;
+    }
+    .marsel__img img {
+        width: 165px;
+    }
+    .marsel__img .im {
+        width: 165px;
+        margin-right: 25px;
+    }
+    .record__text p {
+        margin-left: 25px;
+        width: 315px;
+    }
+    .grape {
+        top: 560px;
+        left: 300px;
+    }
+    .record__text h2 {
+        padding: 5px 5px;
+        width: 245px;
+        font-size: 24px;
+    }
+    .barell {
+        top: 20px;
+        right: 300px;
+        max-width: 27%;
+    }
+    .imput {
+        width: 330px;
+    }
+    input {
+        width: 150px;
+    }
+    .record__text button {
+        padding: 10px 120px;
+    }
+    .men__link{
+        bottom: -250px
+    }
+}
+@media(max-width:390px){
+    .barell {
+        top: 20px;
+        right: 290px;
+        max-width: 27%;
+    }
+    .grape {
+        top: 562px;
+        left: 290px;
+    }
+    .men__link{
+        width: 190px;
+    }
+    .men__link li a{
+font-size: 12px;
+    }
+}
+@media(max-width:380px){
+    .taste__line {
+        margin-left: 105px;
+        width: 140px;
+    }
+    .main__text p {
+        margin-left: 30px;
+        width: 290px;
+    }
+    .marsel__text {
+        position: relative;
+        left: 7px;
+        width: 281px;
+    }
+    .marsel__vino {
+        width: 340px;
+    }
+    .marsel__img img {
+        width: 160px;
+    }
+    .marsel__img .im {
+        width: 150px;
+        margin-right: 25px;
+    }
+    .record__text h2 {
+        padding: 5px 5px;
+        width: 180px;
+        font-size: 22px;
+    }
+    .record__text p {
+        margin-left: 35px;
+        width: 280px;
+    }
+    .grape {
+        top: 562px;
+        left: 275px;
+        max-width: 27%;
+    }
+    .barell {
+        top: 20px;
+        right: 277px;
+        max-width: 28%;
+    }
+    .men__link{
+      bottom: -330px;
+    }
+}
+@media(max-width:370px){
+    .barell {
+        top: 20px;
+        right: 266px;
+        max-width: 29%;
+    }
+    .grape {
+        top: 562px;
+        left: 260px;
+        max-width: 29%;
+    }
+    .imput {
+        width: 315px;
+    }
+    .record__text button {
+        padding: 7px 105px;
+    }
+}
+@media(max-width:360px){
+
+    .but button{
+        padding: 10px 20px 10px 20px;
+    }
+    .taste__line {
+        margin-left: 110px;
+        width: 120px;
+    }
+    .main__text p {
+        margin-left: 35px;
+        width: 260px;
+    }
+    .marsel__vin {
+        margin-top: 30px;
+        padding-left: 1px;
+    }
+    .marsel__vino {
+        width: 330px;
+    }
+    .marsel__img img {
+        width: 150px;
+    }
+    .marsel__img .im {
+        width: 150px;
+        margin-right: 25px;
+    }
+    .grape {
+        top: 562px;
+        left: 254px;
+        max-width: 29%;
+    }
+    .barell {
+        top: 20px;
+        right: 260px;
+        max-width: 29%;
+    }
+    .record__text p {
+        margin-left: 25px;
+        width: 280px;
+    }
+    .men__link li a{
+        padding: 0;
+    }
+    .men__link{
+        bottom: -420px;
+        width: 170px;
+    }
+}
+@media(max-width:350px){
+    .imput {
+        width: 290px;
+    }
+    input {
+        width: 135px;
+    }
+    .record__text button {
+        padding: 7px 95px;
+    }
+    .record__text p {
+        margin-left: 20px;
+        width: 280px;
+    }
+    .taste__line {
+        margin-left: 105px;
+        width: 120px;
+    }
+    .barell {
+        top: 19px;
+        right: 246px;
+        max-width: 31%;
+    }
+    .grape {
+        top: 562px;
+        left: 244px;
+        max-width: 30%;
+    }
+}
+@media(max-width:340px){
+    .taste__line {
+        margin-left: 95px;
+        width: 120px;
+    }
+    .main__text p {
+        margin-left: 35px;
+        width: 240px;
+    }
+    .marsel__vino {
+        width: 310px;
+    }
+    .marsel__img .im {
+        width: 150px;
+        margin-right: 10px;
+    }
+    .record__text p {
+        margin-left: 15px;
+        width: 280px;
+        font-size: 14px;
+    }
+    .barell {
+        top: 19px;
+        right: 232px;
+        max-width: 33%;
+    }
+    .grape {
+        top: 562px;
+        left: 230px;
+        max-width: 32%;
+    }
+    .imput {
+        width: 280px;
+    }
+    input {
+        width: 130px;
+    }
+    .men__link{
+        bottom: -460px;
+    }
+}
+@media(max-width:330px){
+    .marsel__vino {
+        width: 305px;
+    }
+    .marsel__img .im {
+        width: 145px;
+        margin-right: 10px;
+    }
+    .marsel__img img {
+        width: 145px;
+    }
+    .record__text p {
+        margin-left: 10px;
+        width: 280px;
+        font-size: 14px;
+    }
+    .grape {
+        top: 562px;
+        left: 223px;
+        max-width: 32%;
+    }
+    .barell {
+        top: 19px;
+        right: 225px;
+        max-width: 33%;
+    }
+}
+@media(max-width:320px){
+    .but button {
+        padding: 5px 10px 5px 10px;
+        background: #99862A;
+        border: none;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .main__text h1 {
+        font-size: 30px;
+    }
+    .taste__line {
+        margin-left: 86px;
+        width: 120px;
+    }
+    .main__text p {
+        margin-left: 35px;
+        width: 220px;
+    }
+    .marsel__text p {
+        width: 284px;
+    }
+    .marsel__vino {
+        width: 300px;
+    }
+    .record__text button {
+        padding: 7px 90px;
+    }
+    .barell {
+        top: 19px;
+        right: 223px;
+        max-width: 33%;
+    }
+    .grape {
+        top: 550px;
+        left: 220px;
+        max-width: 32%;
+    }
+    .record__text p {
+        margin-left: 5px;
+        width: 280px;
+        font-size: 14px;
+    }
+    .men__link{
+        bottom: -555px;
+        left: 45px;
+    }
+}
